@@ -6,7 +6,7 @@
   /* New cohesive palette */
   --bg: #03000a;      /* Background: near-black with purple undertone */
   --surface: #0b0420; /* Surfaces/cards: deep purple-black */
-  --text: #ffffff;    /* Text: pure white for maximum legibility */
+  --text: #000000;    /* Text: pure white for maximum legibility */
   --muted: #d6cfff;   /* Muted: lighter lavender for notes/captions */
   --primary: #8b5cf6; /* Primary: rich purple for links and accents */
   --secondary: #a78bfa;/* Secondary: softer purple for tags/highlights */
